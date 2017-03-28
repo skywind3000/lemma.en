@@ -1,14 +1,12 @@
 ; En Lemma Database (version 1.0.2)
 ; Compiled by Lin Wei (https://github.com/skywind3000), Mar 28, 2017
-; by referencing the 100M+ words in British Nation Corpus (BNC), 
+; by referencing the 100M+ words in the British National Corpus (BNC), 
 ; and Yasumasa Someya's lemma list.
 ; This lemma list is provided "as is" and is free to use for any research
 ; and/or educational purposes. 
 ; The list currently contains 114,198 words (tokens) in 49,033 lemma groups. 
-; It is still far from complete, but I hope you find the list useful in 
-; preparing your own more complete lemma list. If you have any questions or
-; comments about this lemma list, feel free to contact me
-; skywind3000@163.com, at any time..
+; If you have any questions or comments about this lemma list, feel free 
+; to contact me (skywind3000@163.com), at any time..
 ;
 be/4109826 -> is,was,are,were,'s,been,being,'re,'m,am,m
 have/1315648 -> had,has,'ve,having,'s,'d,of,d,ve
