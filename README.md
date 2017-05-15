@@ -2,9 +2,9 @@
 
 English Lemma Database - Compiled by Referencing British National Corpus
 
-Compiled by Lin Wei (https://github.com/skywind3000), Mar 28, 2017 by referencing the 100M+ words in the British Nation Corpus (BNC), and Yasumasa Someya's lemma list.
+Compiled by Lin Wei (https://github.com/skywind3000), Mar 28, 2017 by referencing the 100M+ words in the British Nation Corpus (BNC), NodeBox Linguistics and Yasumasa Someya's lemma list.
 
-This lemma list is provided "as is" and is free to use for any research and/or educational purposes. The list currently contains 114,198 words (tokens) in 49,033 lemma groups. 
+This lemma list is provided "as is" and is free to use for any research and/or educational purposes. The list currently contains 186,523 words (tokens) in 84,487 lemma groups. 
 
 
 ## Data Format
