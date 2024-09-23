@@ -18,7 +18,7 @@ word/bnc-frequence -> form1 (, form2 (, form3...))
 Data Sample:
 ```text
 be/4109826 -> is,was,are,were,'s,been,being,'re,'m,am,m
-have/1315648 -> had,has,'ve,having,'s,'d,of,d,ve
+have/1315648 -> had,has,'ve,having,'s,'d,d,ve
 it/1213224 -> its,they
 he/1196022 -> his,him,they
 i/1133697 -> my,me,we,is
